@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Siddhant Sinhal 👋
 
-<!--
-**siddhantsinhal1812/siddhantsinhal1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science student at the University of Massachusetts Amherst  
+ Interested in Software Engineering, Automation, and AI
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student at UMass Amherst who enjoys building projects that solve practical problems. I like exploring APIs, automating tasks, and learning new technologies through hands-on projects.
+
+-  Currently strengthening my programming and problem-solving skills
+-  Building projects with Python and APIs
+-  Working toward software engineering internship opportunities
+-  Amherst, Massachusetts
+
+## Tech Stack
+
+**Languages:** Python, HTML, CSS  
+**Tools:** Git, GitHub, VS Code  
+**APIs & Integrations:** CoinGecko API, Discord, WhatsApp
+
+## Featured Projects
+
+###  Crypto Monitor Bot
+A Python project for monitoring cryptocurrency data through APIs and delivering updates using Discord and WhatsApp integrations.
+
+###  Student Planner
+A project focused on organizing study schedules and helping students manage academic tasks.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/siddhant-sinhal-53b406436/)
+
+---
+
+ Thanks for visiting my profile!
