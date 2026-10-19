@@ -20,8 +20,9 @@ I'm a Computer Science student at UMass Amherst who enjoys building projects tha
 
 ## Featured Projects
 
-###  Crypto Monitor Bot
+###  Crypto Bot
 A Python project for monitoring cryptocurrency data through APIs and delivering updates using Discord and WhatsApp integrations.
+https://github.com/siddhantsinhal1812/Crypto_Bot
 
 ###  Student Planner
 A project focused on organizing study schedules and helping students manage academic tasks.
